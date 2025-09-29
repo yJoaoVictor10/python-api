@@ -1,0 +1,1 @@
+opcao = int(input('ola'))
